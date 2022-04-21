@@ -1,0 +1,15 @@
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\bin\Debug\net5.0\creditoautomotriz.Domain.deps.json
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\bin\Debug\net5.0\creditoautomotriz.Domain.dll
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\bin\Debug\net5.0\ref\creditoautomotriz.Domain.dll
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\bin\Debug\net5.0\creditoautomotriz.Domain.pdb
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\bin\Debug\net5.0\creditoautomotriz.Entities.dll
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\bin\Debug\net5.0\creditoautomotriz.Entities.pdb
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\obj\Debug\net5.0\creditoautomotriz.Domain.csproj.AssemblyReference.cache
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\obj\Debug\net5.0\creditoautomotriz.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\obj\Debug\net5.0\creditoautomotriz.Domain.AssemblyInfoInputs.cache
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\obj\Debug\net5.0\creditoautomotriz.Domain.AssemblyInfo.cs
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\obj\Debug\net5.0\creditoautomotriz.Domain.csproj.CoreCompileInputs.cache
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\obj\Debug\net5.0\creditoautomotriz.Domain.csproj.CopyComplete
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\obj\Debug\net5.0\creditoautomotriz.Domain.dll
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\obj\Debug\net5.0\ref\creditoautomotriz.Domain.dll
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Domain\obj\Debug\net5.0\creditoautomotriz.Domain.pdb

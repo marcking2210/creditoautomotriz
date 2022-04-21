@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7aPpy09IXbjLlcxwA9V6uhvM1txParRpO3stKgxNTjZ3UfnavqIc16iQ3wtZ0Kdlu8Rvik+G4QWwXg5wTj2Njg==",
+  "success": true,
+  "projectFilePath": "D:\\BANCO PICHINCHA\\OnBoarding Práctico\\creditoautomotriz\\creditoautomotriz.Domain\\creditoautomotriz.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ALIENWARE\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

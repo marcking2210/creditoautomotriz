@@ -1,0 +1,11 @@
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Entities\bin\Debug\net5.0\creditoautomotriz.Entities.deps.json
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Entities\bin\Debug\net5.0\creditoautomotriz.Entities.dll
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Entities\bin\Debug\net5.0\ref\creditoautomotriz.Entities.dll
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Entities\bin\Debug\net5.0\creditoautomotriz.Entities.pdb
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Entities\obj\Debug\net5.0\creditoautomotriz.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Entities\obj\Debug\net5.0\creditoautomotriz.Entities.AssemblyInfoInputs.cache
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Entities\obj\Debug\net5.0\creditoautomotriz.Entities.AssemblyInfo.cs
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Entities\obj\Debug\net5.0\creditoautomotriz.Entities.csproj.CoreCompileInputs.cache
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Entities\obj\Debug\net5.0\creditoautomotriz.Entities.dll
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Entities\obj\Debug\net5.0\ref\creditoautomotriz.Entities.dll
+D:\BANCO PICHINCHA\OnBoarding Práctico\creditoautomotriz\creditoautomotriz.Entities\obj\Debug\net5.0\creditoautomotriz.Entities.pdb
